@@ -1,7 +1,5 @@
-### Hi there 👋, my name is Mohammadreza😎
-#### I am Computer Engineering Student at Shiraz University.
-
-##
+# Hi there 👋, my name is Mohammadreza😎
+I am Computer Engineering Student at Shiraz University.
 
 ## Skills and Experience
 * 📱 Java

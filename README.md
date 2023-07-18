@@ -17,9 +17,9 @@ I am Computer Engineering Student at Shiraz University.
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaNazirii)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaNazirii&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadrezaNazirii&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadrezaNazirii&show_icons=true&theme=transparent)  
 
 
 
